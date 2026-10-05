@@ -1,0 +1,21 @@
+ID;File;YearFolder;PresumedContent;VerifiedContent;ReadStatus;Confidence
+1;2017/06935199670-IRPF-A-2017-2016-DEC.pdf;2017;DIRPF;DIRPF Exerc 2017 AC 2016 original entregue 10/03/2017;Lido integral;Alta
+2;2017/*-REC.pdf (+2 duplicatas);2017;Recibo;Recibo da declaracao AC 2016;Lido parcial;Alta
+3;2018/ 7 imagens;2018;nao identificado;US 1040/2018 MFJ + CT-1040/2018 + Form W-7 ITIN dependente;OCR;Media-alta
+4;2019/ 12 imagens;2019;nao identificado;US 1040/2019 + Sch1/2/C/SE + Form 9465 + CT-1040/2019;OCR;Media-alta
+5;2020/ 22 imagens;2020;AC 2020;US 1040/2020 E TAMBEM US 1040/2021 (dois anos na mesma pasta);OCR;Media-alta
+6;2022/Jose Adalmo 22 File.pdf;2022;US return 2022;US 1040/2022 MFJ + Sch1/2/C/SE + 1040-V;OCR 11 pags;Media-alta
+7;2023/ 17 imagens;2023;nao identificado;US 1040/2023 + Sch1/2/E/SE/8812 + Form 8879 assinado 23/04/2024 + CT-1040 EXT;OCR;Alta
+8;2024/2024 Tax Return Documents.pdf;2024;US return 2024;US 1040/2024 + Sch1/2/3/C/E/SE + CT-1040 + Form 9325 e-file aceito 04/09/2025;Lido integral;Alta
+9;2024/NU_890835024_OUT-NOV-DEZ2024.pdf;2024;Extratos Nubank;Extratos out-dez 2024 conta 89083502-4;Lido saldos;Alta
+10;2025/01..12.pdf;2025;Extratos 2025;jan fev jun-dez 2025; 03.pdf e MAIO/2022; 04.txt e 05.txt vazios;Lido periodos;Alta
+11;2025/investimentos/BLUE OCEAN 605.pdf;2025;Imovel;Loft 605 Blue Ocean Rofran R$ 370.000 (5.000 sinal + 365.000);Lido;Alta
+12;2025/investimentos/PF - INC N1 - TERRENISTA - 100X.pdf;2025;Imovel;Apto 303 Edificio N1 Porto Belo Vokkan R$ 1.250.265;Lido;Alta
+13;2026/NU_JAN-FEV-ABR2026.pdf;2026;Extratos 2026;jan fev abr 2026; marco e maio+ ausentes;Lido saldos;Alta
+14;06935199670-IRPF-A-2026-2025-ORIGI.DEC/.DBK;raiz;Declaracao exerc 2026;Arquivo PGD endereco Sao Paulo/SP; SEM .REC = indicio de nao transmitida;Lido binario;Media
+15;2025/..docx;2025;-;Demonstrativo final de honorarios - encerramento antecipado do servico;Lido;Alta
+16;0 COBRAR/* e honorarios;raiz;Honorarios;Sem efeito fiscal;Nao lido;Alta
+17;0 DOCUMENTS PESSOAIS/*.jpeg;raiz;CPF/Certidao;Copias CPF e certidao casamento;Nao lido;Alta
+18;000 MD/00_ e 02_BACKUP.md;000 MD;Backup;Arquivos identicos 13665 bytes; recebimentos out2024-dez2025;Lido;Alta
+19;000 MD/01_ 03_PROMPT e MANIFEST;000 MD;Prompts;Prompts de trabalho;Lido;Alta
+20;*.skill *.url *.gsheet *.gdoc;raiz;Ferramentas;Sem conteudo fiscal;Nao lido;Alta
